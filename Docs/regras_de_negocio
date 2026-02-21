@@ -1,7 +1,0 @@
-## Regras de Negócio (RN)
-
-### RN01 — Obrigatório e-mail para se cadastrar (questão de recuperação de senha)
-
-### RN02 — Possibilitar ao usuário solicitar recuperação de senha
-
-### RN02 — Caso ocorram mais de 3 tentativas de login com erro bloquear temporáriamente (10 minutos)
