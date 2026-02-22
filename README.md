@@ -1,6 +1,3 @@
-# atividade19022026
-Atividade MAX 1902
-
 # 💈 Sistema de Agendamento para Barbearia
 
 Aplicativo desenvolvido para modernizar e otimizar o processo de agendamento de horários em barbearias, proporcionando maior organização, eficiência operacional e melhor experiência ao cliente.
