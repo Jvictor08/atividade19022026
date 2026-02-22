@@ -1,0 +1,265 @@
+Semana 1 — Fundamentos de Dart (base obrigatória)
+
+Objetivo: entender a linguagem antes de entrar no Flutter.
+
+Dia 1
+
+Instalar Flutter/Dart
+
+Configurar VS Code (extensões Dart e Flutter)
+
+Testar dart --version e flutter doctor
+
+----OK----
+
+Dia 2
+
+Sintaxe básica do Dart
+
+print, variáveis (var, final, const)
+
+Tipos primitivos
+
+Dia 3
+
+Operadores
+
+Condicionais (if, else, switch)
+
+Laços (for, while, forEach)
+
+Dia 4
+
+Funções
+
+Parâmetros nomeados e opcionais
+
+Arrow functions
+
+Dia 5
+
+Listas (List)
+
+Mapas (Map)
+
+Manipulação básica de coleções
+
+Dia 6
+
+Classes e objetos
+
+Construtores
+
+Métodos
+
+Dia 7
+
+Null Safety
+
+?, !, late
+
+Exercícios de fixação no terminal
+
+Semana 2 — Dart intermediário + entrada no Flutter
+
+Objetivo: consolidar lógica e iniciar o Flutter com segurança.
+
+Dia 8
+
+Herança
+
+Classes abstratas
+
+Interfaces (implements)
+
+Dia 9
+
+Enums
+
+Extensions
+
+Organização de código em arquivos
+
+Dia 10
+
+Programação assíncrona
+
+Future, async, await
+
+Dia 11
+
+Tratamento de erros
+
+try, catch, finally
+
+Dia 12
+
+Criar primeiro projeto Flutter
+
+Entender a estrutura do projeto
+
+Dia 13
+
+main.dart
+
+runApp
+
+MaterialApp
+
+Dia 14
+
+Widgets básicos
+
+Scaffold, AppBar, Text, Center
+
+Semana 3 — Flutter UI e navegação
+
+Objetivo: construir telas e entender o conceito de widgets.
+
+Dia 15
+
+StatelessWidget
+
+Ciclo de vida básico
+
+Dia 16
+
+StatefulWidget
+
+setState
+
+Dia 17
+
+Layout com Row, Column
+
+Padding, SizedBox, Expanded
+
+Dia 18
+
+Container
+
+Estilização básica
+
+Cores e temas
+
+Dia 19
+
+Inputs
+
+TextField
+
+Botões (ElevatedButton, IconButton)
+
+Dia 20
+
+Listas
+
+ListView
+
+ListTile
+
+Dia 21
+
+Navegação entre telas
+
+Navigator.push e pop
+
+Semana 4 — Estado, dados e projeto final
+
+Objetivo: fechar com um app simples funcional.
+
+Dia 22
+
+Organização de pastas
+
+screens, widgets, models
+
+Dia 23
+
+Introdução a gerenciamento de estado
+
+Conceito de Provider (teórico + exemplo simples)
+
+Dia 24
+
+Consumo de API (teoria)
+
+JSON
+
+Pacote http
+
+Dia 25
+
+Requisição GET simples
+
+Exibir dados na tela
+
+Dia 26
+
+Loading (CircularProgressIndicator)
+
+Tratamento de erro visual
+
+Dia 27
+
+Persistência simples
+
+SharedPreferences (conceito)
+
+Dia 28
+
+Revisão geral
+
+Refatorar código
+
+Boas práticas
+
+Dia 29
+
+Criar um mini projeto:
+
+Lista de itens
+
+Tela de detalhe
+
+Dados simulados ou API
+
+Dia 30
+
+Finalizar projeto
+
+Ajustar layout
+
+Revisar aprendizado e próximos passos
+
+
+
+
+
+=== complemento de estudo ===
+
+Seja qual for o caminho que você escolher, comece com a documentação bem escrita e atualizada fornecida pelo Google, ou seja:
+
+Primeiro, instale Dart e Flutter conforme indicado em https://docs.flutter.dev/get-started/install para sua plataforma:
+
+em dart.dev:
+
+leia o tour inteiro (https://dart.dev/language/)
+
+dê uma olhada no tour da biblioteca (https://dart.dev/guides/libraries/)
+
+faça os codelabs do Dart (https://dart.dev/codelabs/)
+
+em flutter.dev:
+
+leia o material de visão geral (https://docs.flutter.dev/)
+
+faça os codelabs (https://docs.flutter.dev/codelabs/)
+
+dê uma olhada no cookbook (https://docs.flutter.dev/cookbook/)
+
+e nunca leia um post de blog ou assista a um vídeo com mais de seis meses sem procurar o conselho de um especialista. (O Flutter muda rápido, com lançamentos acontecendo quase mensalmente.)
+
+Vídeos e livros recomendados: https://docs.flutter.dev/resources/videos e https://docs.flutter.dev/resources/books.
+
+Canais do YouTube recomendados: https://www.youtube.com/@flutterdev e https://www.youtube.com/@FlutterCommunity
